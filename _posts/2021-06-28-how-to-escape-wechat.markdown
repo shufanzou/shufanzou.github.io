@@ -1,5 +1,5 @@
 ---
-layout: 随笔
+layout: post
 title:  "如何逃离微信"
 date:   2021-06-28
 categories: 生活方式
