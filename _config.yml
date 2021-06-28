@@ -21,7 +21,7 @@
 title: 光阴与浮沫
 email: zousf@pku.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  用于记录随时间流逝的光阴之河中泛起的浮沫
+  记录随时间流逝的光阴之河中泛起的浮沫
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "shufanzou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
